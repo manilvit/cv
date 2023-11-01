@@ -1,0 +1,17 @@
+html mdn для вопросов по документации
+
+
+
+
+pluggin emmet, prettier
+ctrl + shift + alt + up/down
+alt + shift + down
+сtrl + d
+ctrl + l
+https://habr.com/ru/articles/718662/
+
+
+tr - table row
+td - table data
+th - table heading
+td и th по идее как одно и тоже, разве что тх будет жирным
